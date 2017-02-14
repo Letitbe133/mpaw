@@ -139,7 +139,7 @@ header {
 /* start main style */
 
 section {
-    padding-bottom: 1rem;
+/*    padding-bottom: 1rem;*/
     display: flex;
     flex-direction: column-reverse;
 }
@@ -188,11 +188,16 @@ section:last-child {
     background-image: url('../images/ananasmain.jpeg');
 }
 
+#pro .section-header {
+    height: auto;
+}
+
 /* end main style */
 
 /* start formContact style */
 
 #formContact {
+    padding-top: 1em;
     width: 100%;
 }
 
