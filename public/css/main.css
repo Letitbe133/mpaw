@@ -144,7 +144,6 @@ header {
 /* start main style */
 
 section {
-    /*padding-bottom: 1rem;*/
     display: flex;
     flex-direction: column-reverse;
 }
@@ -210,6 +209,7 @@ section:last-child {
 /* start formContact style */
 
 #formContact {
+    padding-top: 1em;
     width: 100%;
 		padding-top: 1rem;
 }
