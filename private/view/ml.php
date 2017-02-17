@@ -2,7 +2,7 @@
     <div>
         <h4>Hébergement :</h4>
         <p><a href="https://www.gandi.net/">GANDI SAS</a>, Société par Actions Simplifiée au capital de 300.000€ ayant son siège social au 63-65 boulevard Massena à Paris (75013) FRANCE, immatriculée sous le numéro 423 093 459 RCS PARIS N° TVA FR81423093459 Téléphone : +33.(0) 1 70.37.76.61 .</p>
-        <p>Ce dernier est en possession des coordonées de l'éditeur et du responsable de la publication (merci gandi!)</p>
+        <p>Ce dernier est en possession des coordonées de l'éditeur et du responsable de la publication (merci Gandi!)</p>
     </div>
     <div>
         <h4>Gestion des données personnelles :</h4>
@@ -10,6 +10,6 @@
         <p>Piwik est une solution d’analytics qui respecte votre vie privée conformément aux recommandations de la CNIL et ne demande aucune déclaration préalable.</p>
     </div>
     <div>
-        Conception: <a href="index.php">Ma petite agence web</a>
+        <p>Conception: <a href="http://www.cooldev.xyz">Lionel</a> pour <a href="index.php">Ma petite agence web</a></p>
     </div>
 </section>

@@ -5,7 +5,7 @@ $(function(){
         $('.sous-menu').css('z-index', 99999);
         $('.sous-menu').slideToggle();
     })
-    
+
     // fonction d'affichage de la barre de progression du scroll
     function progressBar(){
 
@@ -33,7 +33,7 @@ $(function(){
     }
 
     // fonction de soft-scroll
-    $('.scrollTo').on('click', function() { // Au clic sur un élément
+    $('.sous-menu .scrollTo').on('click', function() { // Au clic sur un élément
                 $('.sous-menu').slideUp(300);
                             var page = $(this).attr('href'); // Page cible
                             var speed = 600; // Durée de l'animation (en ms)
@@ -43,5 +43,5 @@ $(function(){
 
     // ajout listeners sur évènement scroll
     $(window).scroll(progressBar);
-    
+
 });

@@ -71,32 +71,32 @@ nav {
     cursor: pointer;
 }
 
-.sous-menu {
-    position: absolute;
-    top: 50px;
-    right: 0px;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    background-color: rgba(255, 102, 0, 0.8);
-    display: none;
-}
+	.sous-menu {
+	    position: absolute;
+	    top: 50px;
+	    right: 0px;
+	    list-style: none;
+	    margin: 0;
+	    padding: 0;
+	    background-color: rgba(255, 102, 0, 0.8);
+	    display: none;
+	}
 
-.sous-menu li {
-    padding: 1rem;
-    transition: all 0.2s ease;
-    font-family: ralewayblack;
-}
+		.sous-menu li {
+		    padding: 1rem;
+		    transition: all 0.2s ease;
+		    font-family: ralewayblack;
+		}
 
-.sous-menu li:hover {
-    background-color: rgba(255, 102, 0, 0.8);
-}
+		.sous-menu li:hover {
+		    background-color: rgba(255, 102, 0, 0.8);
+		}
 
-.sous-menu li a, .sous-menu li a:visited {
-    color: white;
-		display: block;
-		width: 100%;
-}
+			.sous-menu li a, .sous-menu li a:visited {
+			    color: white;
+					display: block;
+					width: 100%;
+			}
 
 /* end menu style */
 
@@ -116,16 +116,16 @@ header {
     width: 80%;
 }
 
-#tagline h1 {
-    font-size: 3rem;
-    color: white;
-    text-align: center;
-}
+	#tagline h1 {
+	    font-size: 3rem;
+	    color: white;
+	    text-align: center;
+	}
 
-#tagline img {
-	display: block;
-	margin: 0 auto;
-}
+	#tagline img {
+		display: block;
+		margin: 0 auto;
+	}
 
 #logo {
     padding-top: 1vh;
@@ -133,9 +133,9 @@ header {
     width: 40%;
 }
 
-#logo a img {
-    max-width: 100%;
-}
+	#logo a img {
+	    max-width: 100%;
+	}
 
 #btn-scroll {
     display: none;
@@ -154,37 +154,37 @@ section:last-child {
     flex-direction: column;
 }
 
-.section-header {
-    height: 250px;
-    background-size: 120%;
-    background-repeat: no-repeat;
-}
+	.section-header {
+	    height: 250px;
+	    background-size: 120%;
+	    background-repeat: no-repeat;
+	}
 
-.section-content {
-    padding: 0 2rem;
-    background-color: rgb(47, 72, 88);
-}
+	.section-content {
+	    padding: 0 2rem;
+	    background-color: rgb(47, 72, 88);
+	}
 
-.section-content p {
-    text-align: justify;
-    color: white;
-    font-size: 1.5rem;
-}
+		.section-content p {
+		    text-align: justify;
+		    color: white;
+		    font-size: 1.5rem;
+		}
 
-.section-content img {
-    max-width: 40%;
-		display: block;
-		margin: 0 auto;
-    }
+		.section-content img {
+		    max-width: 40%;
+				display: block;
+				margin: 0 auto;
+		}
 
-.section-content a, .socials a {
-    font-family: ralewayblack;
-    font-size: 2rem;
-    text-align: center;
-    color: rgba(255, 102, 0, 1);
-		display: block;
-		margin: 0 auto;
-}
+		.section-content a, .socials a {
+		    font-family: ralewayblack;
+		    font-size: 2rem;
+		    text-align: center;
+		    color: rgba(255, 102, 0, 1);
+				display: block;
+				margin: 0 auto;
+		}
 
 #public .section-header {
     background-image: url('../images/ananasbleu.jpeg');
@@ -216,37 +216,37 @@ section:last-child {
 		padding-top: 1rem;
 }
 
-#formContact div {
-    width: 90%;
-    margin: 0 auto;
-}
+	#formContact div {
+	    width: 90%;
+	    margin: 0 auto;
+	}
 
-#formContact input, #formContact textarea, #formContact button {
-    display: block;
-    margin: 1rem auto;
-    padding: 0.5rem;
-    width: 90%;
-    background-color: rgba(255, 102, 0, 0.7);
-    border-style: none;
-    color: white;
-    border-radius: 0.4rem;
-    transition: all 0.3s ease;
-}
+	#formContact input, #formContact textarea, #formContact button {
+	    display: block;
+	    margin: 1rem auto;
+	    padding: 0.5rem;
+	    width: 90%;
+	    background-color: rgba(255, 102, 0, 0.7);
+	    border-style: none;
+	    color: white;
+	    border-radius: 0.4rem;
+	    transition: all 0.3s ease;
+	}
 
-#formContact input:focus, #formContact textarea:focus {
-    background-color: rgba(255, 102, 0, 1);
-}
+	#formContact input:focus, #formContact textarea:focus {
+	    background-color: rgba(255, 102, 0, 1);
+	}
 
-#formContact button {
-    margin-top: 2rem;
-    background-color: rgba(255, 102, 0, 1);
-    transition: all 0.3s ease;
-}
+	#formContact button {
+	    margin-top: 2rem;
+	    background-color: rgba(255, 102, 0, 1);
+	    transition: all 0.3s ease;
+	}
 
-#formContact label {
-    display: block;
-		text-align: center;
-}
+	#formContact label {
+	    display: block;
+			text-align: center;
+	}
 
 /* end formContact style */
 
@@ -254,13 +254,14 @@ footer {
     position: relative;
     text-align: center;
     background-color: rgb(47, 72, 88);
-    height: 20rem;
+    height: 20%;
     color: white;
+		padding-bottom: 2rem;
 }
 
-footer a, footer a:visited {
-    color: white;
-}
+	footer a, footer a:visited {
+	    color: white;
+	}
 
 .socials {
     display: flex;
@@ -271,30 +272,35 @@ footer a, footer a:visited {
     padding-top: 3rem;
 }
 
-.socials div {
-    padding: 0 1rem;
-}
-
-
+	.socials div {
+	    padding: 0 1rem;
+	}
 
 .ml {
-        display: block;
-        height: 100vh;
-        font-family: ralewaylight;
-        background-image: url('../images/4ananas.jpeg');
-        background-size: cover;
-        background-position-y: -130px;
+    display: block;
+    height: 80vh;
+    font-family: ralewaylight;
+    background-image: url('../images/4ananas.jpeg');
+    background-size: cover;
+    background-position-x: -130px;
     }
 
-    .ml div {
-        margin: 0 auto;
-        width: 80%;
-        font-size: 2em;
-    }
+	.ml div {
+	    margin: 0 auto;
+	    width: 80%;
+	    font-size: 1rem;
+	}
 
-    .ml div a {
-        font-size: 1.5rem;
-    }
+		.ml div a {
+		    font-size: 1rem;
+				font-family: ralewayblack;
+		    color: rgba(255, 102, 0, 1);
+		}
+
+	.ml h4 {
+		margin-top: 0;
+		padding-top: 2rem;
+	}
 
 /* start @media queries */
 
@@ -309,6 +315,15 @@ footer a, footer a:visited {
 	footer {
 		font-size: 1.5rem;
 	}
+
+	.ml p, .ml h4 {
+		font-size: 1.5rem;
+	}
+
+		.ml p a {
+			font-size: 1.5em;
+		}
+
 }
 
 @media only screen and (min-width: 992px) {
@@ -331,25 +346,25 @@ footer a, footer a:visited {
         height: 10vh;
     }
 
-    .socials div {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        height: 100%;
-    }
+	    .socials div {
+	        display: flex;
+	        flex-direction: column;
+	        justify-content: center;
+	        height: 100%;
+	    }
 
-    .socials div a {
-        height: auto;
-    }
+		    .socials div a {
+		        height: auto;
+		    }
 
-    #formContact input, #formContact textArea, #formContact button, #formContact label, .section-content, footer {
-    font-size: 1.6rem;
-    }
+		#formContact {
+		        background-color: rgb(243, 235, 239);
+		        padding: 1rem 0;
+		}
 
-    #formContact {
-        background-color: rgb(243, 235, 239);
-        padding: 1rem 0;
-    }
+			#formContact input, #formContact textArea, #formContact button, #formContact label, .section-content, footer {
+	    font-size: 1.6rem;
+	    }
 
     .sous-menu li {
         font-size: 2rem;
@@ -366,56 +381,51 @@ footer a, footer a:visited {
         flex-direction: row;
     }
 
-    section div a {
-        font-size: 2rem;
-    }
+	    section div a {
+	        font-size: 2rem;
+	    }
 
-    section div a img {
-        font-size: 60rem;
-    }
+		    section div a img {
+		        font-size: 60rem;
+		    }
 
-    .section-header {
-        width: 47%;
-        height: 100%;
-        background-size: 155%;
-        transition: background-size 0.5s ease;
+	    .section-header {
+	        width: 47%;
+	        height: 100%;
+	        background-size: 155%;
+	        transition: background-size 0.5s ease;
+	    }
 
-    }
+	    .section-header:hover {
+	        background-size: 145%;
+	    }
 
-    .section-header:hover {
-        background-size: 145%;
-    }
+	    .section-content {
+	        display: flex;
+	        flex-direction: column;
+	        justify-content: center;
+	        width: 53%;
+	        color: white;
+	        text-align: justify;
+	    }
 
-    .section-content {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        width: 53%;
-        color: white;
-        text-align: justify;
-    }
-
-		.section-content a {
-			font-size: 3rem;
-		}
-
-
+				.section-content a {
+					font-size: 3rem;
+				}
 
     #public, #ateliers, #meetup {
         height: 450px;
     }
-
-
 
     #ateliers {
 
         flex-direction: row-reverse;
     }
 
-		#ateliers .section-content img {
-			padding-top: 3rem;
-			width: 20rem;
-		}
+			#ateliers .section-content img {
+				padding-top: 3rem;
+				width: 20rem;
+			}
 
 		#meetup .section-content img {
 			padding-top: 3rem;
@@ -425,13 +435,13 @@ footer a, footer a:visited {
         margin-top: 0;
     }
 
-    #tagline h1 {
-        font-size: 5em;
-    }
+	    #tagline h1 {
+	        font-size: 5em;
+	    }
 
-    #tagline h1 img {
-        vertical-align: middle;
-    }
+		    #tagline h1 img {
+		        vertical-align: middle;
+		    }
 
     #logo {
         padding-top: 1%;
@@ -459,33 +469,36 @@ footer a, footer a:visited {
         cursor: pointer;
     }
 
-
 		.bounce:hover {
 		        -moz-animation: bounce 0.3s ease infinite alternate;
 		    }
 
     .ml {
+				margin-top: 0;
+				height: 80vh;
         display: block;
-        width: 100vw;
-        height: 100vh;
         font-family: ralewaylight;
         background-image: url('../images/4ananas.jpeg');
         background-size: cover;
-        background-position-y: -130px;
+        background-position-y: -280px;
     }
 
-    .ml div {
-        margin: 0 auto;
-        width: 80%;
-        font-size: 1.5rem;
-    }
+	    .ml div {
+	        margin: 0 auto;
+					width: 80%;
+	        font-size: 1.5rem;
+	    }
 
-    .ml div a {
-        font-size: 2rem;
-    }
+		    .ml div a {
+					font-family: ralewayblack;
+					font-size: 2rem;
+		  		color: rgba(255, 102, 0, 1);
+		    }
 
-
-
+				.ml div h4 {
+					margin-top: 0;
+					padding-top: 2rem;
+				}
 }
 
 /* end @media queries */
