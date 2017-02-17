@@ -94,6 +94,8 @@ nav {
 
 .sous-menu li a, .sous-menu li a:visited {
     color: white;
+		display: block;
+		width: 100%;
 }
 
 /* end menu style */
@@ -296,6 +298,19 @@ footer a, footer a:visited {
 
 /* start @media queries */
 
+@media only screen and (max-width: 320px ) {
+
+	footer img {
+		width: 2rem;
+	}
+}
+
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+	footer {
+		font-size: 1.5rem;
+	}
+}
+
 @media only screen and (min-width: 992px) {
 
     @-moz-keyframes bounce {
@@ -357,10 +372,6 @@ footer a, footer a:visited {
 
     section div a img {
         font-size: 60rem;
-    }
-
-    .bounce:hover {
-        -moz-animation: bounce 0.3s ease infinite alternate;
     }
 
     .section-header {
@@ -438,18 +449,20 @@ footer a, footer a:visited {
         text-align: center;
         transition: all 0.3s ease;
         display: block;
-    }
-
-    #btn-scroll a {
-        font-size: 2rem;
-        color: white;
-        font-family: ralewayblack;
+				color: white;
+				font-size: 2rem;
+				font-family: ralewayblack;
     }
 
     #btn-scroll:hover, #formContact button:hover {
         background-color: rgba(255, 102, 0, 0.8);
         cursor: pointer;
     }
+
+
+		.bounce:hover {
+		        -moz-animation: bounce 0.3s ease infinite alternate;
+		    }
 
     .ml {
         display: block;

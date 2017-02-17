@@ -6,8 +6,8 @@
         <h1>L'agence dont vous êtes le</h1>
         <img src="public/images/heros.svg"></img>
     </div>
-    <div id="btn-scroll" class="bounce">
-        <a class="scrollTo" href="#public">En savoir plus ;)</a>
-    </div>
+    <!-- <div id="btn-scroll" class="bounce"> -->
+        <a id="btn-scroll" class="scrollTo bounce" href="#public">En savoir plus ;)</a>
+    <!-- </div> -->
 
 </header>
