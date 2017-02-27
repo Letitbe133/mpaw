@@ -27,7 +27,7 @@
             <p>
                 Des articles et des ateliers pour découvrir les outils de communication libres et/ou gratuits disponibles
             </p>
-            <a href="blog.mpaw.xyz">Le blog</a>
+            <a href="blog.mpaw.xyz">Le blog</a> ((bientôt))
             <p>
                 
                 Suivez l'actu et les prochains évènements sur notre page Facebook
@@ -43,7 +43,7 @@
 		Aidez et / ou faîtes-vous aider
             </h2>
             <p>
-                Besoin d'être accompagné dans votre stratégie de communication ? Nous organisons régulièrement des rencontres entre apprenants.
+                Besoin d'être accompagné dans votre stratégie de communication ? Nous organisons régulièrement des rencontres entre apprenants.((bientôt))
             </p>
             <a href="#" target="blank"><img src="public/images/meetup-logo1200x630-transparent.png" width="" alt="Suivez-nous sur Meetup" /></a>
         </div>
@@ -51,11 +51,12 @@
     <section id="pro">
         <div class="section-content">
             <h2>
-		...et si avez besoin de plus, faîtes faire !
+		...et si vous avez besoin de plus, faîtes faire !
             </h2>
             <p>
-                Grâce à la communauté MPAW, nous pouvons réaliser des supports de communication à tarifs solidaires.<br/>
-                Nous pouvons également vous mettre en relation avec des professionnels du territoire qui ont signé la charte des gentils.<br/>
+                Grâce à la communauté MPAW, vous pouvez faire réaliser des supports de communication. Nous proposons nos services pour les personnes qui n'ont pas accès aux services d'une agence web classique (demandeurs d'emploi en création d'entreprise, personnes au RSA)à tarifs solidaires. <br/>
+                Nous réalisons également tous types de projets web. En choisissant Ma Petite Agence Web pour la réalisation de votre site internet,vous permettez à d'autres personnes d'accéder à la communication digitale et donnez plus de chances à leurs projets !  <br/>
+                Nous pouvons aussi vous mettre en relation avec des professionnels du territoire qui ont signé la charte des gentils.<br/><br/>
                 Parlez-nous de votre projet !
             </p>
         </div>
