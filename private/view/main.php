@@ -27,7 +27,7 @@
             <p>
                 Des articles et des ateliers pour découvrir les outils de communication libres et/ou gratuits disponibles
             </p>
-            <a href="blog.mpaw.xyz">Le blog</a> ((bientôt))
+            <a href="http://blog.mpaw.xyz">Le blog</a>
             <p>
                 
                 Suivez l'actu et les prochains évènements sur notre page Facebook
@@ -54,8 +54,8 @@
 		...et si vous avez besoin de plus, faîtes faire !
             </h2>
             <p>
-                Grâce à la communauté MPAW, vous pouvez faire réaliser des supports de communication. Nous proposons nos services pour les personnes qui n'ont pas accès aux services d'une agence web classique (demandeurs d'emploi en création d'entreprise, personnes au RSA)à tarifs solidaires. <br/>
-                Nous réalisons également tous types de projets web. En choisissant Ma Petite Agence Web pour la réalisation de votre site internet,vous permettez à d'autres personnes d'accéder à la communication digitale et donnez plus de chances à leurs projets !  <br/>
+                Grâce à la communauté MPAW, vous pouvez faire réaliser des supports de communication. Nous proposons nos services pour les personnes qui n'ont pas accès aux services d'une agence web classique (demandeurs d'emploi en création d'entreprise, personnes au RSA) à tarifs solidaires. <br/>
+                Nous réalisons également tous types de projets web. En choisissant Ma Petite Agence Web pour la réalisation de votre site internet, vous permettez à d'autres personnes d'accéder à la communication digitale et donnez plus de chances à leurs projets !  <br/>
                 Nous pouvons aussi vous mettre en relation avec des professionnels du territoire qui ont signé la charte des gentils.<br/><br/>
                 Parlez-nous de votre projet !
             </p>
