@@ -1,4 +1,4 @@
-    <div class="section-header">
+    <div>
         <form action="#formContact" method="POST" id="formContact" >
                 <div>
                     <label for="nom">Nom :</label>

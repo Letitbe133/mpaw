@@ -163,11 +163,11 @@ section:last-child {
 
 	.section-content {
 	    padding: 0 2rem;
-	    background-color: rgb(47, 72, 88);
+	    background-color: #2f4858;
 	}
 
 		.section-content p {
-		    text-align: justify;
+		    text-align: center;
 		    color: white;
 		    font-size: 1.5rem;
 		}
@@ -188,8 +188,10 @@ section:last-child {
 		}
 
 		.section-content h2 {
-			font-family: ralewayblack;
-			font-size: 2.2rem;
+			font-family: ralewaylight;
+			font-size: 2.5rem;
+			font-weight: bolder;
+			text-align: center;
 		}
 
 #public .section-header {
@@ -210,6 +212,7 @@ section:last-child {
 
 #pro .section-header {
 	height: auto;
+	background-image: url('../images/ananasbleu.jpeg');
 }
 
 /* end main style */
@@ -366,13 +369,22 @@ footer {
 		    }
 
 		#formContact {
-		        background-color: rgb(243, 235, 239);
-		        padding: 1rem 0;
+		        /*background-color: rgb(80, 83, 147);*/
+		        padding: 3rem 0;
+		}
+
+		#formContact div {
+			/*width: 60%;*/
 		}
 
 			#formContact input, #formContact textArea, #formContact button, #formContact label, .section-content, footer {
-	    font-size: 1.6rem;
+	    font-size: 2rem;
+			color: white;
 	    }
+
+			#formContact input, #formContact textarea {
+				background-color: rgba(255, 255, 255, 0.5);
+			}
 
     .sous-menu li {
         font-size: 2rem;
@@ -414,7 +426,7 @@ footer {
 	        justify-content: center;
 	        width: 53%;
 	        color: white;
-	        text-align: justify;
+	        text-align: center;
 	        padding: 0 4rem;
 	    }
 
@@ -422,14 +434,35 @@ footer {
 					font-size: 3rem;
 				}
 
-    #public, #ateliers, #meetup {
+    #ateliers, #meetup {
         height: 450px;
     }
 
-    #ateliers {
+		#public .section-content{
+			width: 100%;
+			background-color: rgb(40, 175, 176);
+			text-align: center;
+			padding: 2rem 30rem;
+			line-height: 3rem;
+			box-sizing: border-box;
+		}
 
+		#public .section-content p, #pro .section-content p {
+			text-align: center;
+			font-size: 2rem;
+		}
+
+		#public .section-content h2 {
+			font-size: 3rem;
+		}
+
+    #ateliers, #pro {
         flex-direction: row-reverse;
     }
+
+		#ateliers .section-content {
+			background-color: rgb(75, 117, 142);
+		}
 
 			#ateliers .section-content img {
 				padding-top: 3rem;
@@ -440,7 +473,29 @@ footer {
 			padding-top: 3rem;
 		}
 
-    #tagline {
+		#meetup .section-content {
+			background-color: rgb(69, 107, 130);
+		}
+
+		/*#pro {
+			display: block;
+		}*/
+
+		#pro .section-content {
+			/*width: 100%;*/
+			background-color: rgb(62, 96, 117);
+		}
+
+		#contact {
+			background-color: rgb(40, 175, 176);
+		}
+
+		#contact div {
+			width: 80%;
+
+		}
+
+		#tagline {
         margin-top: 0;
     }
 
