@@ -447,7 +447,7 @@ footer {
 			box-sizing: border-box;
 		}
 
-		#public .section-content p, #pro .section-content p {
+		#public .section-content p {
 			text-align: center;
 			font-size: 2rem;
 		}
@@ -482,7 +482,6 @@ footer {
 		}*/
 
 		#pro .section-content {
-			/*width: 100%;*/
 			background-color: rgb(62, 96, 117);
 		}
 
