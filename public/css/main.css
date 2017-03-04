@@ -187,6 +187,11 @@ section:last-child {
 				margin: 0 auto;
 		}
 
+		.section-content h2 {
+			font-family: ralewayblack;
+			font-size: 2.2rem;
+		}
+
 #public .section-header {
     background-image: url('../images/ananasbleu.jpeg');
 }
@@ -399,9 +404,9 @@ footer {
 	        transition: background-size 0.5s ease;
 	    }
 
-	    .section-header:hover {
+	    /*.section-header:hover {
 	        background-size: 145%;
-	    }
+	    }*/
 
 	    .section-content {
 	        display: flex;
@@ -503,6 +508,55 @@ footer {
 					margin-top: 0;
 					padding-top: 2rem;
 				}
+
+				.login form, .feedback {
+					width: 40%;
+					margin: 0 auto;
+					text-align: center;
+					font-size: 2rem;
+				}
+
+				.login form input {
+					display: block;
+					margin: 0 auto;
+					width: 100%;
+					text-align: center;
+					padding: 0.5rem;
+					margin-bottom: 1rem;
+					box-sizing: border-box;
+				}
+
+				.login form input:first-child {
+					margin-top: 1rem;
+				}
+
+				.fablist {
+					display: flex;
+					flex-direction: row;;
+					justify-content: space-around;
+					flex-wrap: wrap;
+				}
+
+				.fablist div {
+					width: 25%;
+					background-color: lightgrey;
+					box-shadow: 1px 1px 1px 1px grey;
+					padding: 1rem;
+					box-sizing: border-box;
+					margin: 1rem;
+					transition: all 0.3s ease;
+				}
+
+				.fablist div:hover {
+					box-shadow: 0px 0px 0px 0px grey;
+				}
+
+				.fablist div li {
+					list-style: none;
+					font-size: 1.5rem;
+				}
+
+
 }
 
 /* end @media queries */
