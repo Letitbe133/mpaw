@@ -1,5 +1,7 @@
 <main>
     <section id="public">
+        <div class="section-header">
+        </div>
         <div class="section-content">
             <h2>
 		MPAW, communauté apprenante de la communication digitale
