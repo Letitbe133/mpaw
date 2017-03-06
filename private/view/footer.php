@@ -1,7 +1,7 @@
         <footer>
             <section class="socials" id="socials">
                 <div>
-                    <a href="blog.mpaw.xyz" title="Rejoindre le blog">Le blog</a>
+                    <a href="http://blog.mpaw.xyz" title="Rejoindre le blog">Le blog</a>
                 </div>
                 <div> | </div>
                 <div>

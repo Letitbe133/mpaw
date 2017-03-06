@@ -32,8 +32,8 @@ $(function(){
       document.getElementById("bar").style.width = scrollPercent + "%";
     }
 
-    // fonction de soft-scroll
-    $('.sous-menu .scrollTo').on('click', function() { // Au clic sur un élément
+    // fonction de soft-scroll sur le menu et le cta du header
+    $('.sous-menu .scrollTo, #btn-scroll').on('click', function() { // Au clic sur un élément
                 $('.sous-menu').slideUp(300);
                             var page = $(this).attr('href'); // Page cible
                             var speed = 600; // Durée de l'animation (en ms)
