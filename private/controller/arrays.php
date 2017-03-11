@@ -7,27 +7,27 @@
 
                         array(
                             'slug' => 'Pour qui?',
-                            'href' => '#public'
+                            'href' => 'index.php#public'
                             ),
 
                         array(
                             'slug' => 'Les ateliers',
-                            'href' => '#ateliers'
+                            'href' => 'index.php#ateliers'
                             ),
 
                         array(
                             'slug' => 'Les meetup',
-                            'href' => '#meetup'
+                            'href' => 'index.php#meetup'
                             ),
 
                         array(
                             'slug' => 'Trouver un pro',
-                            'href' => '#pro'
+                            'href' => 'index.php#pro'
                             ),
 
                         array(
                             'slug' => 'Contactez-nous',
-                            'href' => '#formContact'
+                            'href' => 'index.php#formContact'
                             )
         );
 
