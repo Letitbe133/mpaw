@@ -124,6 +124,7 @@ header {
 
 	#tagline h1 {
 	    font-size: 3rem;
+	    font-family: ralewaythin;	
 	    color: white;
 	    text-align: center;
 	    line-height: 4rem;
@@ -309,6 +310,8 @@ footer {
     height: 20%;
     color: white;
 	 padding-bottom: 2rem;
+	 font-size: 1.2rem;
+	
 }
 
 	footer a, footer a:visited {
@@ -359,10 +362,7 @@ footer {
 
 
 @media only screen and (min-width: 600px) and (max-width: 768px) {
-	footer {
-		font-size: 1.5rem;
-	}
-
+	
 	.ml p, .ml h4 {
 		font-size: 1.5rem;
 	}
@@ -396,7 +396,8 @@ footer {
     }
 
 		#tagline {
-        margin-top: 0;
+        margin-top: 5rem;
+        
     }
 
 	    #tagline h1 {
@@ -405,7 +406,13 @@ footer {
 
 		    #tagline h1 img {
 		        vertical-align: middle;
+		      
 		    }
+		  #tagline img {
+  
+   		 margin: 5rem auto;
+}
+
 
    /* #logo {
         padding-top: 1%;

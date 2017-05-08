@@ -6,22 +6,22 @@
                             ),
 
                         array(
-                            'slug' => 'Pour qui?',
+                            'slug' => 'Qui sommes nous ?',
                             'href' => 'index.php#public'
                             ),
 
                         array(
-                            'slug' => 'Les ateliers',
-                            'href' => 'index.php#ateliers'
+                            'slug' => 'Le blog',
+                            'href' => 'index.php#blog'
                             ),
 
                         array(
                             'slug' => 'Les meetup',
-                            'href' => 'index.php#meetup'
+                            'href' => 'index.php#ateliers'
                             ),
 
                         array(
-                            'slug' => 'Trouver un pro',
+                            'slug' => "Besoin d'un site web ?",
                             'href' => 'index.php#pro'
                             ),
 

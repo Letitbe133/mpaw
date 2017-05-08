@@ -38,8 +38,8 @@ C'est de là qu'est née Ma petite agence web. De l'envie de partager les galèr
         <div class="section-header">
     	  </div>
         <div class="section-content">
-            <h2>
-		Accompagnement et conseils en communication web
+            <h2><mark>
+		Accompagnement et conseils en communication web</mark>
             </h2>
           
             <p>
@@ -55,8 +55,8 @@ C'est de là qu'est née Ma petite agence web. De l'envie de partager les galèr
       <div class="section-header">
       </div>
       <div class="section-content">
-          <h2>
-	...et si vous avez besoin de plus, faîtes faire !
+          <h2><mark>
+	...et si vous avez besoin de plus, faîtes faire !</mark>
           </h2>
           <p>
               Nous réalisons également tous types de projets web en collaboration avec l'agence <a id="lien-classic" href="http://www.cooldev.xyz" target="_blank">Cooldev</a>  <br/><br/>
