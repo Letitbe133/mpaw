@@ -110,10 +110,14 @@ header {
     position: relative;
     width: 100%;
     height: 70vh;
-    background-image: url('../images/ananas-fond-blanc.jpeg');
+    background: url('../images/ananas-fond-blanc.jpeg') no-repeat center center fixed;
     background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    -webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-ms-background-size: cover; 
+	-o-background-size: cover; 
+    /*background-position: center center;
+    background-attachment: fixed;*/
 }
 
 #tagline {
@@ -208,10 +212,14 @@ section:last-child {
 		}
 
 #public .section-header {
-    background-image: url('../images/ananasbleu.jpeg');
+    background: url('../images/ananasbleu.jpeg') no-repeat center center fixed;
     background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    /*background-position: center center;
+    background-attachment: fixed;*/
+    -webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-ms-background-size: cover; 
+	-o-background-size: cover; 
 }
 
 #public .section-content {
@@ -221,10 +229,14 @@ section:last-child {
 }
 
 #blog .section-header {
-    background-image: url('../images/ananaspc.jpeg');
+    background: url('../images/ananaspc.jpeg') no-repeat center top fixed;
     background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    /*background-position: center center;
+    background-attachment: fixed;*/
+    -webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-ms-background-size: cover; 
+	-o-background-size: cover; 
 }
 
 #blog .section-content {
@@ -232,18 +244,26 @@ section:last-child {
 }
 
 #ateliers .section-header {
-    background-image: url('../images/ananasmain.jpeg');
+    background: url('../images/ananasmain.jpeg') no-repeat center center fixed;
     background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    /*background-position: center center;
+    background-attachment: fixed;*/
+    -webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-ms-background-size: cover; 
+	-o-background-size: cover; 
 }
 
 #pro .section-header {
 	height: auto;
-	background-image: url('../images/ananasbleu.jpeg');
-	background-size: cover;
-   background-position: center center;
-   background-attachment: fixed;
+	background: url('../images/ananasbleu.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    /*background-position: center center;
+    background-attachment: fixed;*/
+    -webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-ms-background-size: cover; 
+	-o-background-size: cover; 
 }
 #lien-classic {
 			font-size: 1.8rem;
