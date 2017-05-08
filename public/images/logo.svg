@@ -15,25 +15,13 @@
    height="530.59637"
    id="svg4585"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="logo.svg"
    inkscape:export-filename="C:\Users\Mylene\Desktop\Projet Open\mpaw\COM\Logos mpaw\logo1000x1000.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
      id="defs4587">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5076">
-      <stop
-         style="stop-color:#ff6600;stop-opacity:1;"
-         offset="0"
-         id="stop5078" />
-      <stop
-         style="stop-color:#ff6600;stop-opacity:0;"
-         offset="1"
-         id="stop5080" />
-    </linearGradient>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect3429"
@@ -216,15 +204,6 @@
        fx="176"
        fy="307.36218"
        r="15.00011" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5076"
-       id="linearGradient5086"
-       x1="227.06596"
-       y1="366.94901"
-       x2="267.77707"
-       y2="366.94901"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -234,8 +213,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41053452"
-     inkscape:cx="483.07614"
-     inkscape:cy="129.92885"
+     inkscape:cx="22.410628"
+     inkscape:cy="128.06627"
      inkscape:document-units="px"
      inkscape:current-layer="g8885"
      showgrid="false"
@@ -247,7 +226,7 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -261,19 +240,23 @@
     <sodipodi:guide
        position="-116.43855,-389.78077"
        orientation="0,744.09448"
-       id="guide8746" />
+       id="guide8746"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="627.65595,-389.78077"
        orientation="-1052.3622,0"
-       id="guide8748" />
+       id="guide8748"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="627.65595,662.58144"
        orientation="0,-744.09448"
-       id="guide8750" />
+       id="guide8750"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-116.43855,662.58144"
        orientation="1052.3622,0"
-       id="guide8752" />
+       id="guide8752"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4590">
@@ -296,7 +279,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4215"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(38.79723,100.53684)"><flowRegion
          id="flowRegion4217"><rect
            id="rect4219"
@@ -304,7 +287,8 @@
            height="164.93849"
            x="-109.00283"
            y="609.09229" /></flowRegion><flowPara
-         id="flowPara4221" /></flowRoot>  </g>
+         id="flowPara4221"
+         style="font-size:24px;line-height:1.25"> </flowPara></flowRoot>  </g>
   <g
      inkscape:label="damier"
      inkscape:groupmode="layer"
@@ -451,7 +435,7 @@
                      transform="matrix(0.70358634,0,0,0.65032561,48.652535,101.1615)" />
                 </g>
                 <path
-                   style="fill:#ff6600;fill-opacity:1;stroke:url(#linearGradient5086);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   style="fill:#ffa500;fill-opacity:1;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                    d="m 227.62788,331.67463 7.64121,-20.51064 11.26075,19.30413 c 7.97199,21.88254 12.78322,42.18469 16.48894,61.93409 7.79745,37.08088 2.6973,26.87059 1.60868,31.36921 -10.39535,-39.79476 -15.83663,-62.81346 -36.99958,-92.09679 z"
                    id="path8737"
                    inkscape:connector-curvature="0"
@@ -549,7 +533,7 @@
               </g>
             </g>
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot4211"
                xml:space="preserve"><flowRegion
                  id="flowRegion4213"><rect
@@ -558,7 +542,8 @@
                    height="63.332069"
                    width="270.37921"
                    id="rect4215" /></flowRegion><flowPara
-                 id="flowPara4217" /></flowRoot>          </g>
+                 id="flowPara4217"
+                 style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>          </g>
         </g>
       </g>
     </g>

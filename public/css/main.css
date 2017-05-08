@@ -50,8 +50,11 @@ a, a:active, a:visited {
 h2 {
     color: white;
     font-size: 2rem;
+    line-height: 4rem;
 }
-
+strong{
+	font-weight:normal;}
+mark { background-color:orange; color:white; }
 /* end general style */
 
 #bar {
@@ -59,7 +62,7 @@ h2 {
     width: 0;
     top: 0px;
     left: 0px;
-    border-bottom: 2px solid rgba(255, 102, 0, 1) ;
+    border-bottom: 2px solid rgba(255,165,0, 1) ;
 }
 
 /* start menu style */
@@ -109,18 +112,22 @@ header {
     height: 70vh;
     background-image: url('../images/ananas-fond-blanc.jpeg');
     background-size: cover;
+    background-position: center center;
     background-attachment: fixed;
 }
 
 #tagline {
-    margin: 8vh auto 0;
+    margin: 5vh auto 0;
     width: 80%;
+    
 }
 
 	#tagline h1 {
 	    font-size: 3rem;
 	    color: white;
 	    text-align: center;
+	    line-height: 4rem;
+	    margin:0;
 	}
 
 	#tagline img {
@@ -129,9 +136,10 @@ header {
 	}
 
 #logo {
-    padding-top: 1vh;
-    padding-left: 2%;
-    width: 40%;
+    padding-top: 5vh;
+    /*padding-left: 2%;*/
+    margin: auto;
+    width: 150px;
 }
 
 	#logo a img {
@@ -157,23 +165,27 @@ section:last-child {
 
 	.section-header {
 	    height: 250px;
-	    background-size: 120%;
+	    background-size: 100%;
 	    background-repeat: no-repeat;
+	    
 	}
 
 	.section-content {
-	    padding: 0 2rem;
+	    padding: 0 3rem;
 	    background-color: #2f4858;
+	    min-height: 300px;
+	    
 	}
 
 		.section-content p {
-		    text-align: center;
+		    text-align: justify;
 		    color: white;
-		    font-size: 1.5rem;
+		    font-size: 1.8rem;
+		    
 		}
 
 		.section-content img {
-		    max-width: 40%;
+		    max-width: 50%;
 				display: block;
 				margin: 0 auto;
 		}
@@ -182,7 +194,7 @@ section:last-child {
 		    font-family: ralewayblack;
 		    font-size: 2rem;
 		    text-align: center;
-		    color: rgba(255, 102, 0, 1);
+		    color: rgba(255,165,0, 1);
 				display: block;
 				margin: 0 auto;
 		}
@@ -196,27 +208,47 @@ section:last-child {
 
 #public .section-header {
     background-image: url('../images/ananasbleu.jpeg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 #public .section-content {
 	background-color: rgb(40, 175, 176);
+	
+	
 }
 
-#ateliers .section-header {
+#blog .section-header {
     background-image: url('../images/ananaspc.jpeg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
-#ateliers .section-content {
+#blog .section-content {
 	padding-bottom: 2rem;
 }
 
-#meetup .section-header {
+#ateliers .section-header {
     background-image: url('../images/ananasmain.jpeg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 #pro .section-header {
 	height: auto;
 	background-image: url('../images/ananasbleu.jpeg');
+	background-size: cover;
+   background-position: center center;
+   background-attachment: fixed;
+}
+#lien-classic {
+			font-size: 1.8rem;
+			display: inline;
+		   
+		   color: rgba(255,165,0, 1);
 }
 
 /* end main style */
@@ -251,12 +283,12 @@ section:last-child {
 		}
 
 			#formContact input:focus, #formContact textarea:focus {
-			    background-color: rgba(255, 102, 0, 1);
+			    background-color: rgba(255,165,0, 1);
 			}
 
 		#formContact button {
 		    margin-top: 2rem;
-		    background-color: rgba(255, 102, 0, 1);
+		    background-color: rgba(255,165,0, 1);
 		    transition: all 0.3s ease;
 		}
 
@@ -276,12 +308,13 @@ footer {
     background-color: rgb(47, 72, 88);
     height: 20%;
     color: white;
-		padding-bottom: 2rem;
+	 padding-bottom: 2rem;
 }
 
 	footer a, footer a:visited {
 	    color: white;
 	}
+	
 
 .socials {
     display: flex;
@@ -314,7 +347,7 @@ footer {
 		.ml div a {
 		    font-size: 1rem;
 				font-family: ralewayblack;
-		    color: rgba(255, 102, 0, 1);
+		    color: rgba(255,165,0, 1);
 		}
 
 	.ml h4 {
@@ -322,14 +355,8 @@ footer {
 		padding-top: 2rem;
 	}
 
-/* start @media queries */
+/* ***********************************************start @media queries <3******************************************/
 
-@media only screen and (max-width: 320px ) {
-
-	footer img {
-		width: 2rem;
-	}
-}
 
 @media only screen and (min-width: 600px) and (max-width: 768px) {
 	footer {
@@ -343,12 +370,12 @@ footer {
 		.ml p a {
 			font-size: 1.5em;
 		}
-	.section-content {
+	/*.section-content {
 	    padding: 0 4rem;
-	 }
+	 }*/
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1200px) {
 
     @-moz-keyframes bounce {
         0% {
@@ -361,7 +388,7 @@ footer {
     }
 
     header {
-        height: 100vh
+        height: 100vh;
     }
 
     .sous-menu li {
@@ -380,16 +407,16 @@ footer {
 		        vertical-align: middle;
 		    }
 
-    #logo {
+   /* #logo {
         padding-top: 1%;
         padding-left: 1%;
-        width: 20%;
-    }
+        width: 15%;
+    }*/
 
     #btn-scroll {
         width: 30%;
         margin: 10vh auto 0;
-        background-color: rgba(255, 102, 0, 1);
+        background-color: rgba(255,165,0, 1);
         border-style: none;
         border-radius: 4px;
         padding: 1rem;
@@ -402,7 +429,7 @@ footer {
     }
 
 	    #btn-scroll:hover, #formContact button:hover {
-	        background-color: rgba(255, 102, 0, 0.8);
+	        background-color: rgba(255,165,0, 0.8);
 	        cursor: pointer;
 	    }
 
@@ -426,34 +453,38 @@ footer {
 	    }
 
 		    section div a img {
-		        font-size: 60rem;
+		      font-size: 60rem;
 		    }
 
 	    .section-header {
-	        width: 47%;
-	        height: 100%;
-	        background-size: 155%;
+	        width: 48%;
+	        height: auto;
+	        
+	       
 	    }
 
 	    .section-content {
 	        display: flex;
 	        flex-direction: column;
 	        justify-content: center;
-	        width: 53%;
+	        width: 48%;
 	        color: white;
-	        text-align: center;
-	        padding: 0 4rem;
+	        /*text-align: center;*/
+	        padding: 0 6rem;
+	        min-height: 600px;
 	    }
 
 				.section-content a {
 					font-size: 3rem;
 				}
+				
+	
 
-    #ateliers, #meetup {
-        height: 450px;
+    #blog, #ateliers {
+        height: auto;
     }
 
-		#ateliers, #pro {
+		#blog, #pro {
         flex-direction: row-reverse;
     }
 
@@ -465,34 +496,35 @@ footer {
 			width: 100%;
 			background-color: rgb(40, 175, 176);
 			text-align: center;
-			padding: 2rem 30rem;
+			padding: 2rem 3rem;
 			line-height: 3rem;
 			box-sizing: border-box;
 		}
 
 			#public .section-content p {
-				text-align: center;
+				text-align: justify;
 				font-size: 2rem;
+				padding:0 5rem;
 			}
 
 			#public .section-content h2 {
 				font-size: 3rem;
 			}
 
-		#ateliers .section-content {
+		#blog .section-content {
 			background-color: rgb(75, 117, 142);
 		}
 
-			#ateliers .section-content img {
+			#blog .section-content img {
 				padding-top: 3rem;
 				width: 20rem;
 			}
 
-		#meetup .section-content {
+		#ateliers .section-content {
 			background-color: rgb(69, 107, 130);
 		}
 
-			#meetup .section-content img {
+			#ateliers .section-content img {
 				padding-top: 3rem;
 			}
 
@@ -546,7 +578,7 @@ footer {
 		    .ml div a {
 					font-family: ralewayblack;
 					font-size: 2rem;
-		  		color: rgba(255, 102, 0, 1);
+		  		color: rgba(255,165,0, 1);
 		    }
 
 				.ml div h4 {

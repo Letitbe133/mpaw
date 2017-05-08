@@ -14,7 +14,7 @@
    viewBox="0 0 12.577081 9.2839651"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="pictomenu.svg">
   <defs
      id="defs2" />
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="85.9978"
-     inkscape:cy="177.6945"
+     inkscape:cx="-139.0022"
+     inkscape:cy="173.6945"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4515"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,17 +77,17 @@
          inkscape:connector-curvature="0"
          id="path10"
          d="m 55.940475,159.41667 h 49.892855 v 0"
-         style="fill:#ff6600;stroke:#ff6600;stroke-width:9.66499996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ffa500;stroke-width:9.66499996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path10-3"
-         d="m 56.242859,176.80357 h 49.892861 v 0"
-         style="fill:#ff6600;stroke:#ff6600;stroke-width:9.66499996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 55.940475,176.72787 h 49.892865 v 0"
+         style="fill:none;fill-opacity:1;stroke:#ffa500;stroke-width:9.66499996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path10-6"
-         d="m 56.167256,194.03907 h 49.892794 v 0"
-         style="fill:#ff6600;stroke:#ff6600;stroke-width:9.66499996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 55.940475,194.03907 h 49.892795 v 0"
+         style="fill:none;stroke:#ffa500;stroke-width:9.66499996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
