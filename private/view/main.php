@@ -8,9 +8,9 @@
             </h2>
             <p>
             Vous <strong>démarrez votre activité</strong> et vous souhaitez avoir une <strong>présence sur le web</strong>.<br/></br>
-Le problème, c'est que faire faire par un pro, ça a un coût souvent trop élevé ( mais justifié ) quand on commence.
-Alors vous vous dites que vous allez la faire vous-même.<br/> <br/>C'est une bonne idée !<br/><br/> Le prix moyen d'un site web réalisé soi-mếme, c'est entre 0€ et 50 €. Parfais ! C'est dans votre budget !<br/><br/>
-Mais voilà, si votre ambition est d'avoir un joli logo sur un site web responsive, dans l'air du temps, cela a un autre coût quand on réalise son site soi-même : du temps et de la persévérance. On le sait, on est passé par là...<br/><br/>
+Le problème ? Faire faire sa com par un pro, ça a un coût souvent trop élevé ( mais justifié ) quand on démarre son activité.
+Alors vous vous dites que vous allez la faire vous-même.<br/> <br/>C'est une bonne idée !<br/><br/> Le <strong>prix moyen d'un site web</strong> réalisé soi-mếme, c'est entre 0€ et 50 €. Parfais ! C'est dans votre budget !<br/><br/>
+Mais voilà, si votre ambition est d'avoir un joli logo sur un <strong>site web responsive</strong>, dans l'air du temps, cela a un autre coût quand on <strong>réalise son site soi-même </strong>: du temps et de la persévérance. On le sait, on est passé par là...<br/><br/>
 
 C'est de là qu'est née Ma petite agence web. De l'envie de partager les galères et les bons plans, pour rendre le web plus beau et votre vie d'entrepreneur un chouilla plus facile ;)
             </p>
@@ -43,7 +43,7 @@ C'est de là qu'est née Ma petite agence web. De l'envie de partager les galèr
             </h2>
           
             <p>
-                Besoin d'être accompagné dans votre stratégie de communication ? (Parce qu'avouez, parfois c'est compliqué...) <br/><br/>Parlez-nous de votre projet, nous construirons ensemble, votre stratégie web.</p>
+                Besoin d'être accompagné dans votre <strong>stratégie de communication</strong> ? (Parce qu'avouez, parfois c'est compliqué...) <br/><br/>Parlez-nous de votre projet, nous construirons ensemble, votre stratégie web.</p>
 				<a href="index.php#formContact" >Envoyer un message à l'équipe</a>
 				<p>	                
                 ((bientôt)) Nous organisons régulièrement des ateliers pour s'approprier des outils qui vous faciliteront la vie. 
@@ -59,7 +59,7 @@ C'est de là qu'est née Ma petite agence web. De l'envie de partager les galèr
 	...et si vous avez besoin de plus, faîtes faire !</mark>
           </h2>
           <p>
-              Nous réalisons également tous types de projets web en collaboration avec l'agence <a id="lien-classic" href="http://www.cooldev.xyz" target="_blank">Cooldev</a>  <br/><br/>
+              Nous réalisons également tous types de <strong>projets web</strong> en collaboration avec l'agence <a id="lien-classic" href="http://www.cooldev.xyz" target="_blank">Cooldev</a>  <br/><br/>
               Parlez-nous de votre projet !
           </p>
       </div>
