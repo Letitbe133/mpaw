@@ -134,7 +134,7 @@ header {
     
 }
 
-	#tagline h1 {
+#tagline h1 {
 	    font-size: 3rem;
 	    font-family: ralewaythin;	
 	    color: white;
@@ -143,7 +143,7 @@ header {
 	    margin:0;
 	}
 
-	#tagline img {
+#tagline img {
 		display: block;
 		margin: 0 auto;
 	}
@@ -155,7 +155,7 @@ header {
     width: 150px;
 }
 
-	#logo a img {
+#logo a img {
 	    max-width: 100%;
 	}
 
@@ -339,7 +339,7 @@ footer {
 	
 }
 
-	footer a, footer a:visited {
+footer a, footer a:visited {
 	    color: white;
 	}
 	
@@ -353,7 +353,7 @@ footer {
     padding-top: 3rem;
 }
 
-	.socials div {
+.socials div {
 	    padding: 0 1rem;
 	}
 
@@ -366,19 +366,19 @@ footer {
     background-position-x: -130px;
     }
 
-	.ml div {
+.ml div {
 	    margin: 0 auto;
 	    width: 80%;
 	    font-size: 1rem;
 	}
 
-		.ml div a {
+.ml div a {
 		    font-size: 1rem;
 				font-family: ralewayblack;
 		    color: rgba(255,165,0, 1);
 		}
 
-	.ml h4 {
+.ml h4 {
 		margin-top: 0;
 		padding-top: 2rem;
 	}
